@@ -235,7 +235,3 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1763935846_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=111502ab6d88754727d58f0952977a83:536d42da4788324e7c7aaf72ceb061c2
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1763935845_f~0_g~1_s~28414a98-9d6d-4083-9313-370f839357fe_u~1aeba26245d08d2861a71a1f13460bdda94a1898ba697552f5f8b13218ba57b11f7d8d68fe44fff55fd06a53a4dc9b31_k~A_l~57_x~03bae90dc7180ec5a937d8ac1e74c61e/nowitlin1/Content/CMAF_CTR_S1/Live/channel(nickelodeon)/master_2hr-aac.mpd
 
-#EXTINF:-1 tvg-id="skynow" tvg-logo="https://i.imgur.com/5rG3M8k.png" group-title="Sky/NOW",Sky Live HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de5be0ad5c2ba3cbb7b945a712cde576:3deda8f8468c27a5c15ae2a64b8a4bce
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/xe8f4n9fhz/out/v1/89d673d6ddfb44f8add1ea7104398f57/cenc.mpd
