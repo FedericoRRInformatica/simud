@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="sky" tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a2/Sky_TV_Logo.png" group-title="Sky",Canale Sconosciuto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11150443883da4df27e25110d10fca31:83b6390471a083e00f8f3aff2a271be9
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1763849418_f~0_g~1_s~942af759-e3e6-46b1-8b44-c64e9b43a09e_u~4bc6808e0bd9b764bfcdd70b3c574bfc6fa271c4769ade685b9855ccaecf50cc646c36334251c475350c1971771793e2_k~A_l~61_x~85178c131ea575874bfbf6ae5fb0c585/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaaction)/master_2hr-aac.mpd
