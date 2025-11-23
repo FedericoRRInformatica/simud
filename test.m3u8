@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5rG3M8k.png" group-title="Premium", Sky Live HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5rG3M8k.png" group-title="Premium", Sky Live HD1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-580/stream.mpd
