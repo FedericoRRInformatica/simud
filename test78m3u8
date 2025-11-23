@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="sky/now" tvg-logo="https://i.imgur.com/5rG3M8k.png" group-title="Sky/NOW", milan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=602f114e6caa09eb9ec0dc18d0b01cb0:0c433e2a2157f7c1e240ad7eac62d604
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jsqfhask6w/out/v1/e70dcd0f1e684592a3db4bbe7feee0fa/cenc.mpd
+
+#EXTINF:-1 tvg-id="skynow" tvg-logo="https://i.imgur.com/5rG3M8k.png" group-title="Sky/NOW",Sky Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11155d8a1fe0b211137c206354e16d2a:7f07d0ef693893a84162d51c1c7259f3
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1763935815_f~0_g~1_s~dbdbb884-cb06-40b2-87d5-39dbd434dbbe_u~1aeba26245d08d2861a71a1f13460bdda94a1898ba697552f5f8b13218ba57b11f7d8d68fe44fff55fd06a53a4dc9b31_k~A_l~65_x~3d748a21cf73fcb1766bed7bcbe6df72/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacollection)/master_2hr-aac.mpd
