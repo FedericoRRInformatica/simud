@@ -6,6 +6,13 @@
   "url": "https://raw.githubusercontent.com/simud2/simud/refs/heads/main/W3U/Events.w3u",
   "groups": [
     {
+      "name": "Eventi Hattick",
+      "author": "Simud",
+      "image": "https://www.gedistatic.it/content/gnn/img/lastampa/2024/07/04/072925052-ad72025f-e3ee-4cf7-b97c-a4ee94a7af88.jpg",
+      "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/W3U/EventiH.w3u",
+      "import": true
+    },
+    {
       "name": "DAZN IT",
       "author": "Simud",
       "image": "https://milanoevents.it/wp-content/uploads/2020/02/logo-dazn.png",
