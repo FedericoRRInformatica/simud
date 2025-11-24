@@ -2,21 +2,21 @@
   "name": "Film e Serie",
   "author": "Aggiornata 30/10/25",
   "image": "https://i.postimg.cc/bYTLc6nY/Gemini-Generated-Image-mhb9vxmhb9vxmhb9.png",
-  "url": "https://raw.githubusercontent.com/simud2/simud/refs/heads/main/W3U/Film.w3u",
+  "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/W3U/Film.w3u",
   "info": "Aggiornata 30/10/25",
   "groups": [
     {
       "name": "Film Vix",
       "author": "Simud",
       "image": "https://i.postimg.cc/NfvtSj1Q/Gemini-Generated-Image-etqfbketqfbketqf.png",
-      "url": "https://raw.githubusercontent.com/simud2/simud/refs/heads/main/VixFilm.m3u8",
+      "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/VixFilm.m3u8",
       "import": true
     },
     {
       "name": "Serie Vix",
       "author": "Simud",
       "image": "https://i.postimg.cc/5ychhsQG/Gemini-Generated-Image-jln3n7jln3n7jln3.png",
-      "url": "https://raw.githubusercontent.com/simud2/simud/refs/heads/main/VixSerie.m3u8",
+      "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/VixSerie.m3u8",
       "import": true
     }
   ]
