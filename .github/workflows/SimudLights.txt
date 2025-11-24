@@ -1,9 +1,9 @@
-name: Simud Scraper Highlights
+name: Hattrick Scraper
 
 on:
   workflow_dispatch:  # Permette di eseguire il workflow manualmente
   schedule:
-    - cron: '0 */3 * * *'  # Esegue ogni 8 ore (es. 00:00, 08:00, 16:00 UTC)
+    - cron: '0 */6 * * *'  # Esegue ogni 8 ore (es. 00:00, 08:00, 16:00 UTC)
 
 jobs:
   scrape:
@@ -22,23 +22,20 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -U yt-dlp
-          
-      - name: Scarica coockies.txt
-        run: |
-          curl -L -o coockies.txt https://raw.githubusercontent.com/simud2/simud/refs/heads/main/coockies.txt
+          python -m pip install --upgrade pip
+          pip install cloudscraper beautifulsoup4
 
-      - name: Run Simud Scraper Highlights
+      - name: Run Hattrick Scraper
         env:
           GITHUB_WORKSPACE: ${{ github.workspace }}
         run: |
-          python SimudLights.py
+          python hattrick.py
 
       - name: Commit and push updated M3U8 file
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add Highlights/SimudLights.m3u8
+          git add W3U/Events.w3u
           git commit -m "Aggiornato High con nuovi flussi" || echo "Nessun cambiamento da committare"
           git push
         continue-on-error: true
