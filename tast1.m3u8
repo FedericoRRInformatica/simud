@@ -1,5 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="skynow" tvg-logo="https://i.postimg.cc/85RPGbWw/Gemini-Generated-Image-i16r44i16r44i16r.png" group-title="Sky/NOW",Sky 
+#EXTINF:-1 tvg-id="20.45.inter.vs.milan..opz..1...ita...mpd.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 20:45 INTER vs MILAN [OPZ. 1] (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=111571675d8183ed169725564cded6d9:e077dedf383c8aed73d38567a8e6a046
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://swisslau1-2-dash-live.zahs.tv/HD_spalk_event_1_ch/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBXIFBDQOJRIUZEMRSDGVBEGLJXHA3DOMBSGI3EENJUG43DGQKBEZSHE3J5MV4HA2LSMF2GS33OHIYTONRUGUZDSOJUGATGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRRL4YWINRYGNQWKYTGG44GIYTFGI4TGNJRHE3DSN3CGRSGMMRXMFRTOJTTOVRHI2LUNRSXGPLINFSGIZLOFVZWI2BGOVZWK4S7NFSD243LPFPWG2B2HIYTSNZRGE3DAJTWHUYA|0000
+
+#EXTINF:-1 tvg-id="20.45.inter.vs.milan..opz..1...ita...mpd.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 20:45 INTER vs MILAN [OPZ. 1] (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
