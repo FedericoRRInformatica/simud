@@ -132,7 +132,7 @@ def scrivi_m3u8(nome_file, entries, usa_veloce=False):
         for i, canale in enumerate(entries, start=1):
             url = canale["veloce"] if usa_veloce else canale["lento"]
             f.write(
-                f'#EXTINF:-1 tvg-id="{i}" group-title="gruppo" tvg-logo="{LOGO}", {canale["nome"]}\n'
+                f'#EXTINF:-1 tvg-id="{i}" group-title="Sky Sport IPTV" tvg-logo="{LOGO}", {canale["nome"]}\n'
             )
             f.write(url + "\n\n")
 
