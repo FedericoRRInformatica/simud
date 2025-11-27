@@ -37,5 +37,5 @@ jobs:
           git config --global user.email "action@github.com"
           git add W3U/EventiH.w3u
           git commit -m "Aggiornato High con nuovi flussi" || echo "Nessun cambiamento da committare"
-          git push
+          git push origin main --force
         continue-on-error: true
