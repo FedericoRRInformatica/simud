@@ -1,83 +1,56 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 24 HD
-https://planetary.lovecdn.ru/SkySport24IT/index.fmp4.m3u8?token=9a4f8b0d018058adeeb077730ff897af20752da1-51ef11ca76d34274ca15277900acbc05-1764265029-1764254229
+#EXTINF:-1 tvg-id="1" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 24 (backup)
+https://beautifulpeople.lovecdn.ru/SkySport24IT/index.fmp4.m3u8?token=714615737b89f60ce381fa25cdbe4d28c3973f62-ab44f8ab34965f4ca0dfedfd08bf865c-1764272686-1764261886
 
-#EXTINF:-1 tvg-id="2" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 24 (backup)
-https://planetary.lovecdn.ru/SkySport24IT/index.fmp4.m3u8?token=ae6e7e17621c8470301ed3ee2dc6f5bd87fb6d73-edd965a62caea8dc0f9d5f0e202827b6-1764265036-1764254236
+#EXTINF:-1 tvg-id="2" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 1 (backup)
+https://beautifulpeople.lovecdn.ru/SkySportUnoIT/index.fmp4.m3u8?token=43be33d87fded520007fd85db79466f2b67230be-bbae5e2b1fd3a9dc90cab8208d27541b-1764272698-1764261898
 
-#EXTINF:-1 tvg-id="3" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 1 HD
-https://planetary.lovecdn.ru/SkySportUnoIT/index.fmp4.m3u8?token=71a294a9a9e8ac98c635c7063f9fa1ec755a00d2-16f4df7353b6d94550c98bb0ea4766dd-1764265042-1764254242
+#EXTINF:-1 tvg-id="3" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Calcio
+https://beautifulpeople.lovecdn.ru/SkySportCalcioIT/index.fmp4.m3u8?token=6ed1c7667fd8cb6edfa22cc35caf90e83aa60d65-04d9bf7538a97df5963f8a34ea84e784-1764272704-1764261904
 
-#EXTINF:-1 tvg-id="4" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 1 (backup)
-https://planetary.lovecdn.ru/SkySportUnoIT/index.fmp4.m3u8?token=22553b0d67f66b6093b3f07c011a5e9a29c04a5c-fd94a2afe0cf8a95e5272aeeb09a5726-1764265049-1764254249
+#EXTINF:-1 tvg-id="4" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Mix HD
+https://beautifulpeople.lovecdn.ru/SkySportMixIT/index.fmp4.m3u8?token=8bfba776f51e25a97efb58efdf0db2e58703c9a1-f421edbf6a8e7f65fd6b4146882c019d-1764272720-1764261920
 
-#EXTINF:-1 tvg-id="5" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Calcio
-https://planetary.lovecdn.ru/SkySportCalcioIT/index.fmp4.m3u8?token=4941ab31fd7de224e3e28be56c511fd0ca1ad706-e81220f9a7ca84da1b342d401909da6b-1764265055-1764254255
+#EXTINF:-1 tvg-id="5" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Max
+https://beautifulpeople.lovecdn.ru/SkySportMaxIT/index.fmp4.m3u8?token=d0bb17c9985f6e165829a756f55086eacf40a81f-87fa30307f215721b2ffafcf0c211a38-1764272739-1764261939
 
-#EXTINF:-1 tvg-id="6" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Calcio HD (backup)
-https://planetary.lovecdn.ru/SkySportCalcioIT/index.fmp4.m3u8?token=6270e335717a38b1629fe2494e8166934f633fb5-0b112194a3ffd43ba3b13d0e4fd0caff-1764265061-1764254261
+#EXTINF:-1 tvg-id="6" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Arena (backup)
+https://beautifulpeople.lovecdn.ru/SkySportArenaIT/index.fmp4.m3u8?token=0b5bdf6335bf318a6ce71706a179c3d5cbac4694-77cb5a04a5f7ce67bc2ac804f7d8bfc7-1764272752-1764261952
 
-#EXTINF:-1 tvg-id="7" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Mix HD
-https://planetary.lovecdn.ru/SkySportMixIT/index.fmp4.m3u8?token=d75b1792431bec608629e8d6348654af1c67874a-aaea3a20a1d0408a4bfc152c20a966c5-1764265068-1764254268
+#EXTINF:-1 tvg-id="7" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Dazn 1 HD
+https://beautifulpeople.lovecdn.ru/ZonaDAZN/index.fmp4.m3u8?token=b20ded3eb4cd3b9e73f405ca725fc09bdb49a6a6-ab2dc71cb72552618f16c95171ea6e34-1764272758-1764261958
 
-#EXTINF:-1 tvg-id="8" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Mix (backup)
-https://planetary.lovecdn.ru/SkySportMixIT/index.fmp4.m3u8?token=a3d8994da42ed59994f5fac345fb30f458c6a1fc-cf2a84e7fc139b9b50e9fc7ccc6b903e-1764265074-1764254274
+#EXTINF:-1 tvg-id="8" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport F1 (backup)
+https://beautifulpeople.lovecdn.ru/SkySportF1IT/index.fmp4.m3u8?token=03cc644c0376dac3717aa7969e1737e4fc892f1f-20eda7ca74eee617aeb82a062d607256-1764272771-1764261971
 
-#EXTINF:-1 tvg-id="9" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Max HD
-https://planetary.lovecdn.ru/SkySportMaxIT/index.fmp4.m3u8?token=4fc211c056d6ec6aa6e1bf0aebc11d7c9f60e65c-34429341df6d83204bfe66e72fe50809-1764265080-1764254280
+#EXTINF:-1 tvg-id="9" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Moto Gp HD
+https://beautifulpeople.lovecdn.ru/SkySportMotoGPIT/index.fmp4.m3u8?token=a07eab2f3a4f2327ab3d67a311bae5b3ccfe4480-19a4d43c7117639fda14cb1e2f88265a-1764272777-1764261977
 
-#EXTINF:-1 tvg-id="10" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Max
-https://planetary.lovecdn.ru/SkySportMaxIT/index.fmp4.m3u8?token=213f712dde7f599b24c05f7015b1ad5ab51ff83d-764062dcd1b992ea200eddf677843adb-1764265087-1764254287
+#EXTINF:-1 tvg-id="10" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Tennis (backup)
+https://beautifulpeople.lovecdn.ru/SkySportTennisIT/index.fmp4.m3u8?token=e58261149bfa06de0dbe18170c037826308c2428-d9df13b015201c6f94a38401a3a6b1d9-1764272798-1764261998
 
-#EXTINF:-1 tvg-id="11" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Arena HD
-https://planetary.lovecdn.ru/SkySportArenaIT/index.fmp4.m3u8?token=4133f5783f40772d9eb103f521b96a4f7604ff5a-bd2fb0be6765eeddfe9e55b6483d0bee-1764265095-1764254295
+#EXTINF:-1 tvg-id="11" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Calcio
+https://beautifulpeople.lovecdn.ru/SkySportCalcioIT/index.fmp4.m3u8?token=5a2bfd8c7727a14de643c26512df62a907dff72e-f486c2f901baffc112fb3f56e7d3509a-1764272804-1764262004
 
-#EXTINF:-1 tvg-id="12" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Arena (backup)
-https://planetary.lovecdn.ru/SkySportArenaIT/index.fmp4.m3u8?token=ef446ca20bd0ccec676a5ef16a3316866d73ab7d-b487e11e4011408aa0274a816649f57b-1764265102-1764254302
+#EXTINF:-1 tvg-id="12" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 1 (backup)
+https://beautifulpeople.lovecdn.ru/SkySportUnoIT/index.fmp4.m3u8?token=0b576f2602134a3f10564c9814d0bf8336dc99f9-070f81a58cbff2f9d56ecc083f606822-1764272824-1764262024
 
-#EXTINF:-1 tvg-id="13" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Dazn 1 HD
-https://planetary.lovecdn.ru/ZonaDAZN/index.fmp4.m3u8?token=9ab49f68d94f605057211bbf648eac08a6f06249-bd1567096d2fa544df8c90cbdb2a0344-1764265108-1764254308
+#EXTINF:-1 tvg-id="13" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 1 (backup)
+https://beautifulpeople.lovecdn.ru/SkySportUnoIT/index.fmp4.m3u8?token=dd5edf5d5e1a9a9eda58de76d4e33c7be31d4bce-b6676aaabc272343a4fffc5e0bcaed73-1764272861-1764262061
 
-#EXTINF:-1 tvg-id="14" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport F1 HD
-https://planetary.lovecdn.ru/SkySportF1IT/index.fmp4.m3u8?token=b21ae85fe9c866784f6b8f86e8bcb2164be920fe-4971f71560a1063a3e75aed95348add8-1764265116-1764254316
+#EXTINF:-1 tvg-id="14" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Max
+https://beautifulpeople.lovecdn.ru/SkySportMaxIT/index.fmp4.m3u8?token=5fcdd76c9ee87f7d186f27e118d32970920ddc9d-558ebed9a3dbf52aa09b80e3a298d878-1764272907-1764262107
 
-#EXTINF:-1 tvg-id="15" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport F1 (backup)
-https://planetary.lovecdn.ru/SkySportF1IT/index.fmp4.m3u8?token=ec774dfd5df154eb09676c7e2ba973279f087467-83a587c400db6f7cd880004296045d82-1764265122-1764254322
+#EXTINF:-1 tvg-id="15" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Max
+https://beautifulpeople.lovecdn.ru/SkySportMaxIT/index.fmp4.m3u8?token=80698d45a382541dca90c48cdecefacc304e36cb-89ced5318c41ea11b196b79acdbf2059-1764272946-1764262146
 
-#EXTINF:-1 tvg-id="16" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Moto Gp HD
-https://planetary.lovecdn.ru/SkySportMotoGPIT/index.fmp4.m3u8?token=66b8808efd9cd9b334d6359d03659859780ccc4c-618fd12c7025de200a847814c047b287-1764265128-1764254328
+#EXTINF:-1 tvg-id="16" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 1 (backup)
+https://beautifulpeople.lovecdn.ru/SkySportUnoIT/index.fmp4.m3u8?token=dd5db2095697969b0c3ee1317940fa112fc9f78d-8fedb23f0cf2f6b0f048061335f69e00-1764272959-1764262159
 
-#EXTINF:-1 tvg-id="17" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Moto Gp (backup)
-https://planetary.lovecdn.ru/SkySportMotoGPIT/index.fmp4.m3u8?token=55f50d320def209b1480304b209af6999241db77-7bb42637a64ed209338f081f075a1e0d-1764265134-1764254334
+#EXTINF:-1 tvg-id="17" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Mix HD
+https://beautifulpeople.lovecdn.ru/SkySportMixIT/index.fmp4.m3u8?token=ab5738c36e92d630cc297a64228c079bfd0ed267-ac778ee24aa61a238ab6d866556abd2a-1764272990-1764262190
 
-#EXTINF:-1 tvg-id="18" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Tennis HD
-https://planetary.lovecdn.ru/SkySportTennisIT/index.fmp4.m3u8?token=742346950626e4f8477c4c8639ee039fc72a7d53-5205703828dae53f353b3f99abbb13e7-1764265141-1764254341
-
-#EXTINF:-1 tvg-id="19" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Tennis (backup)
-https://planetary.lovecdn.ru/SkySportTennisIT/index.fmp4.m3u8?token=56db3fda0213e9c170dca280ac15303fe81f11a2-65b79e42d16d7eacebf696018282f952-1764265147-1764254347
-
-#EXTINF:-1 tvg-id="20" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Calcio
-https://planetary.lovecdn.ru/SkySportCalcioIT/index.fmp4.m3u8?token=e73c5b751ab1e43b82e6ccf6a3a6bf032eb259c2-0b11765e6febcb25ba8a22d79f751158-1764265152-1764254352
-
-#EXTINF:-1 tvg-id="21" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Calcio HD (backup)
-https://planetary.lovecdn.ru/SkySportCalcioIT/index.fmp4.m3u8?token=b2f8a8ac7cc4825e16677406575b6207c026ef46-8df2832fb3786d7ebb5ea429d29bb104-1764265159-1764254359
-
-#EXTINF:-1 tvg-id="22" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Calcio
-https://planetary.lovecdn.ru/SkySportCalcioIT/index.fmp4.m3u8?token=c850e4240d07b23145a197370b6085210fdedf3c-4eb6515e6601d3c2c5e064ae37049358-1764265165-1764254365
-
-#EXTINF:-1 tvg-id="23" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Calcio HD (backup)
-https://planetary.lovecdn.ru/SkySportCalcioIT/index.fmp4.m3u8?token=0c1b2a0844f4b66181747bce264fe8b65c09741b-fca46e9cbccf0bb355f18274db3c07c1-1764265171-1764254371
-
-#EXTINF:-1 tvg-id="24" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 1 HD
-https://planetary.lovecdn.ru/SkySportUnoIT/index.fmp4.m3u8?token=c87c08625cc86ff942680328405d6578abacbfa8-cf33b86242c21176a97ffe55f5d4d1dd-1764265237-1764254437
-
-#EXTINF:-1 tvg-id="25" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport 1 (backup)
-https://planetary.lovecdn.ru/SkySportUnoIT/index.fmp4.m3u8?token=75340d76d01e6871980b04892b740773a42e9f91-b619225788796cf57072b293c9bc5fde-1764265243-1764254443
-
-#EXTINF:-1 tvg-id="26" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Max HD
-https://planetary.lovecdn.ru/SkySportMaxIT/index.fmp4.m3u8?token=41a6be796c57e3efcbdb4ce42090a437f5d5d541-884e7ef9474c28b62c88303a69245acc-1764265281-1764254481
-
-#EXTINF:-1 tvg-id="27" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Sport Max
-https://planetary.lovecdn.ru/SkySportMaxIT/index.fmp4.m3u8?token=36d5a5b51e08111660bff7a3322fdf388bb2a000-dc367ce6347748c3b9d54b5ccdb62c0c-1764265287-1764254487
+#EXTINF:-1 tvg-id="18" group-title="Sky Sport IPTV" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2020/08/NOW-TV-Sky-On-Demand-logo-2.png", Calcio
+https://beautifulpeople.lovecdn.ru/SkySportCalcioIT/index.fmp4.m3u8?token=8756652f6a12cdf70362543368073e4259284303-dec2aff4abf845c44fff4264551d5181-1764273003-1764262203
 
