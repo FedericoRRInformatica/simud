@@ -196,42 +196,42 @@
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Liga TV HD (ext chrome)",
+            "name": "Canali On Line - Live 15",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/ligatvhd.htm",
+            "url": "https://www.hattrick.ws/live15.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Live 106",
+            "name": "Canali On Line - Calcio",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live106.htm",
+            "url": "https://www.hattrick.ws/calcio.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Sport Max HD",
+            "name": "Canali On Line - Calcio HD (backup)",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/sportmaxhd.htm",
+            "url": "https://www.hattrick.ws/calciohd.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Sport Max",
+            "name": "Canali On Line - Live 16",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/sportmax.htm",
+            "url": "https://www.hattrick.ws/live16.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -246,16 +246,6 @@
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Live 10",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live10.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Canali On Line - Live 1",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
@@ -266,72 +256,12 @@
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Live 2",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live2.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Canali On Line - Dazn 1 HD",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.ws/dazn1.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Live 137",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live137.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Live 137 b",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live137b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Live 146",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live146.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Live 146 b",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live146b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Live 7",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live7.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -356,62 +286,92 @@
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Live 139",
+            "name": "Canali On Line - Live 137",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live139.htm",
+            "url": "https://www.hattrick.ws/live137.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Live 139 b",
+            "name": "Canali On Line - Live 137 b",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live139b.htm",
+            "url": "https://www.hattrick.ws/live137b.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Live 8",
+            "name": "Canali On Line - Live 7",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live8.htm",
+            "url": "https://www.hattrick.ws/live7.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Live 3",
+            "name": "Canali On Line - Sport Mix HD",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live3.htm",
+            "url": "https://www.hattrick.ws/sportmixhd.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Live 5",
+            "name": "Canali On Line - Sport Mix (backup)",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live5.htm",
+            "url": "https://www.hattrick.ws/sportmix.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Live 6",
+            "name": "Canali On Line - Sport Arena HD",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live6.htm",
+            "url": "https://www.hattrick.ws/sportarena.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Canali On Line - Sport Arena (backup)",
+            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
+            "online": "true",
+            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/arena.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Canali On Line - Liga TV HD (ext chrome)",
+            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
+            "online": "true",
+            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/ligatvhd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Canali On Line - Live 106",
+            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
+            "online": "true",
+            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/live106.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -446,152 +406,32 @@
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Calcio",
+            "name": "Canali On Line - Live 8",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/calcio.htm",
+            "url": "https://www.hattrick.ws/live8.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Calcio HD (backup)",
+            "name": "Canali On Line - Live 139",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/calciohd.htm",
+            "url": "https://www.hattrick.ws/live139.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Sport 1 HD",
+            "name": "Canali On Line - Live 1",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/sportuno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Sport 1 (backup)",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/uno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Sport Mix HD",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/sportmixhd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Sport Mix (backup)",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/sportmix.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Liga TV HD (ext chrome)",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/ligatvhd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Live 106",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live106.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Dazn 1 HD",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/dazn1.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Live 137",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live137.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Live 137 b",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live137b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Live 7",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live7.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Liga TV HD (ext chrome)",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/ligatvhd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Live 106",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live106.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Sport Calcio HD (ext chrome)",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/skysportcalciohd.htm",
+            "url": "https://www.hattrick.ws/live1.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -642,6 +482,26 @@
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.ws/live7.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Canali On Line - Sport Arena HD",
+            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
+            "online": "true",
+            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/sportarena.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Canali On Line - Sport Arena (backup)",
+            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
+            "online": "true",
+            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/arena.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -856,48 +716,48 @@
             "isHost": ""
         },
         {
-            "name": "Mallorca - Osasuna - Liga TV HD (ext chrome)",
-            "info": "14:00 Â· Liga",
+            "name": "Catanzaro - Entella - Live 15",
+            "info": "17:15 Â· Serie B",
             "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-300x274.png",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlCqdyx76Tp8314RzxDb0guAiGh1bCmxneA&s",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/ligatvhd.htm",
+            "url": "https://www.hattrick.ws/live15.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Mallorca - Osasuna - Live 106",
-            "info": "14:00 Â· Liga",
-            "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-300x274.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live106.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Picerno - Catania - Sport Max HD",
-            "info": "14:30 Â· Serie C",
+            "name": "Pineto - Ravenna - Calcio",
+            "info": "17:30 Â· Serie C",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/960px-Serie_C_NOW_2024.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/sportmaxhd.htm",
+            "url": "https://www.hattrick.ws/calcio.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Picerno - Catania - Sport Max",
-            "info": "14:30 Â· Serie C",
+            "name": "Pineto - Ravenna - Calcio HD (backup)",
+            "info": "17:30 Â· Serie C",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/960px-Serie_C_NOW_2024.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/sportmax.htm",
+            "url": "https://www.hattrick.ws/calciohd.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Casertana - Cavese - Live 4",
-            "info": "14:30 Â· Serie C",
+            "name": "Crotone - Giugliano - Live 16",
+            "info": "17:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/960px-Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/live16.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Altamura - Sorrento - Live 4",
+            "info": "17:30 Â· Serie C",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/960px-Serie_C_NOW_2024.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -906,282 +766,12 @@
             "isHost": ""
         },
         {
-            "name": "Gubbio - Arezzo - Live 10",
-            "info": "14:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/960px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live10.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Diretta Goal - Live 1",
-            "info": "15:00 Â· Serie A",
+            "name": "Juventus - cagliari - Live 1",
+            "info": "18:00 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.ws/live1.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Genoa - Verona - Live 2",
-            "info": "15:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live2.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Genoa - Verona - Dazn 1 HD",
-            "info": "15:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/dazn1.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Genoa - Verona - Live 137",
-            "info": "15:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live137.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Genoa - Verona - Live 137 b",
-            "info": "15:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live137b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Genoa - Verona - Live 146",
-            "info": "15:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live146.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Genoa - Verona - Live 146 b",
-            "info": "15:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live146b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Genoa - Verona - Live 7",
-            "info": "15:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live7.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Parma - Udinese - Live 147",
-            "info": "15:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live147.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Parma - Udinese - Live 147 b",
-            "info": "15:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live147b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Parma - Udinese - Live 139",
-            "info": "15:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live139.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Parma - Udinese - Live 139 b",
-            "info": "15:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live139b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Parma - Udinese - Live 8",
-            "info": "15:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live8.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Empoli - Bari - Live 3",
-            "info": "15:00 Â· Serie B",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlCqdyx76Tp8314RzxDb0guAiGh1bCmxneA&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live3.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Pescara - Padova - Live 5",
-            "info": "15:00 Â· Serie B",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlCqdyx76Tp8314RzxDb0guAiGh1bCmxneA&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live5.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sud Tirol - Avellino - Live 6",
-            "info": "15:00 Â· Serie B",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlCqdyx76Tp8314RzxDb0guAiGh1bCmxneA&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live6.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "GP Qatar (sprint race) - TV8 HD (ext chrome)",
-            "info": "15:00 Â· F1",
-            "online": "true",
-            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/tv8hd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "GP Qatar (sprint race) - Sport F1 HD",
-            "info": "15:00 Â· F1",
-            "online": "true",
-            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/f1hd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "GP Qatar (sprint race) - Sport F1 (backup)",
-            "info": "15:00 Â· F1",
-            "online": "true",
-            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/f1.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bayern Monaco - St. Pauli - Calcio",
-            "info": "15:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/calcio.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bayern Monaco - St. Pauli - Calcio HD (backup)",
-            "info": "15:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/calciohd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Manchester City - Leeds - Sport 1 HD",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/sportuno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Manchester City - Leeds - Sport 1 (backup)",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/uno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sunderland - Bournemouth - Sport Mix HD",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/sportmixhd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sunderland - Bournemouth - Sport Mix (backup)",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/sportmix.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Barcellona - Alaves - Liga TV HD (ext chrome)",
-            "info": "16:15 Â· Liga",
-            "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-300x274.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/ligatvhd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Barcellona - Alaves - Live 106",
-            "info": "16:15 Â· Liga",
-            "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-300x274.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live106.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -1192,6 +782,26 @@
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.ws/dazn1.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Juventus - cagliari - Live 147",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/live147.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Juventus - cagliari - Live 147 b",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/live147b.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -1226,6 +836,46 @@
             "isHost": ""
         },
         {
+            "name": "Everton - Newcastle - Sport Mix HD",
+            "info": "18:30 Â· Premier L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/sportmixhd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Everton - Newcastle - Sport Mix (backup)",
+            "info": "18:30 Â· Premier L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/sportmix.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Bayer Leverkusen - Borussia Dortmund - Sport Arena HD",
+            "info": "18:30 Â· Bundesliga",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/sportarena.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Bayer Leverkusen - Borussia Dortmund - Sport Arena (backup)",
+            "info": "18:30 Â· Bundesliga",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/arena.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Mallorca - Osasuna - Liga TV HD (ext chrome)",
             "info": "18:30 Â· Liga",
             "online": "true",
@@ -1246,12 +896,62 @@
             "isHost": ""
         },
         {
-            "name": "Milan - Lazio - Sport Calcio HD (ext chrome)",
+            "name": "GP Qatar (qualifiche) - TV8 HD (ext chrome)",
+            "info": "19:00 Â· F1",
+            "online": "true",
+            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/tv8hd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "GP Qatar (qualifiche) - Sport F1 HD",
+            "info": "19:00 Â· F1",
+            "online": "true",
+            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/f1hd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "GP Qatar (qualifiche) - Sport F1 (backup)",
+            "info": "19:00 Â· F1",
+            "online": "true",
+            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/f1.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "GP Qatar (qualifiche) - Live 8",
+            "info": "19:00 Â· F1",
+            "online": "true",
+            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/live8.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Paris - Auxerre - Live 139",
+            "info": "19:00 Â· Ligue 1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_Ligue_1_2024.jpg/960px-Logo_Ligue_1_2024.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/live139.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Lazio - Live 1",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/skysportcalciohd.htm",
+            "url": "https://www.hattrick.ws/live1.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -1302,6 +1002,26 @@
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.ws/live7.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Tottenham - Fulham - Sport Arena HD",
+            "info": "21:00 Â· Premier L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/sportarena.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Tottenham - Fulham - Sport Arena (backup)",
+            "info": "21:00 Â· Premier L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/arena.htm",
             "embed": "true",
             "isHost": ""
         },
