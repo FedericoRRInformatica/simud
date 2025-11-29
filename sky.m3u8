@@ -50,15 +50,15 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764375011_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115df8d6727807787e98c0ceae1ee6c:f4b9e52e3f31f1fa41850de4799ca4e3
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764375005_f~0_g~1_s~a4a78d57-5a9a-4f9f-813f-fd2798f60b70_u~02e76e7ac404aeca16a7c9a234f7ef340b6580ae555b4f00c92c36680f42f2bcfd378285c4ead43ac85fd074b4df1b61_k~A_l~50_x~4c0e33e180af2891632643ec9c63e716/nowitlin1/Content/CMAF_CTR_S1/Live/channel(tg24)/master_2hr-aac.mpd
 
-#EXTINF:-1 tvg-id="skynow" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_477_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="Sky/NOW",Sky Uno
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11157cd5b949f15fed63a27edaead8e5:f307cc920e0763653005e4a8630bd8fc
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764375006_f~0_g~1_s~90b99352-7a31-41c2-9e37-86f2d5db4aa5_u~02e76e7ac404aeca16a7c9a234f7ef340b6580ae555b4f00c92c36680f42f2bcfd378285c4ead43ac85fd074b4df1b61_k~A_l~52_x~1575563ae5edb209742bfcfcc58774b7/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyuno)/master_2hr-aac.mpd
-
 #EXTINF:-1 tvg-id="skynow" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_226_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="Sky/NOW",Sky Atlantic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115f02862576b34b467ad4c54a09cfc:bac42e800a5c437b606e2af5b291c607
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764375007_f~0_g~1_s~34433241-7ade-49ae-8088-ca35b8d33f49_u~02e76e7ac404aeca16a7c9a234f7ef340b6580ae555b4f00c92c36680f42f2bcfd378285c4ead43ac85fd074b4df1b61_k~A_l~57_x~d081b3c877b80ca8494a3454b1ab5eb8/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyatlantic)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="skynow" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_477_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="Sky/NOW",Sky Uno
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11157cd5b949f15fed63a27edaead8e5:f307cc920e0763653005e4a8630bd8fc
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1764375006_f~0_g~1_s~90b99352-7a31-41c2-9e37-86f2d5db4aa5_u~02e76e7ac404aeca16a7c9a234f7ef340b6580ae555b4f00c92c36680f42f2bcfd378285c4ead43ac85fd074b4df1b61_k~A_l~52_x~1575563ae5edb209742bfcfcc58774b7/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyuno)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="skynow" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_684_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="Sky/NOW",Sky Serie 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
