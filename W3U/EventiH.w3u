@@ -196,76 +196,6 @@
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Live 3 (test)",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live3.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Live 2 (attivo in caso live 3 off)",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live2.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Sport Sport 1 HD (ext chrome)",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/skysport1hd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Sport 1 HD",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/sportuno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Sport 1 (backup)",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/uno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Live 8",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live8.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Canali On Line - Live 117",
-            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
-            "online": "true",
-            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live117.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Canali On Line - Sport Mix HD",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
@@ -296,12 +226,22 @@
             "isHost": ""
         },
         {
-            "name": "Canali On Line - Live 8",
+            "name": "Canali On Line - Sport Max HD",
             "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
             "online": "true",
             "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live8.htm",
+            "url": "https://www.hattrick.ws/sportmaxhd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Canali On Line - Sport Max",
+            "info": "IN CASO DI PAGINA BIANCA/NERA DISABILITARE AD BLOCK, CANCELLARE COOKIES, CAMBIARE BROSWER",
+            "online": "true",
+            "image": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/sportmax.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -806,76 +746,6 @@
             "isHost": ""
         },
         {
-            "name": "GP Qatar (qualifiche sprint) - Live 3 (test)",
-            "info": "18:30 Â· F1",
-            "online": "true",
-            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live3.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "GP Qatar (qualifiche sprint) - Live 2 (attivo in caso live 3 off)",
-            "info": "18:30 Â· F1",
-            "online": "true",
-            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live2.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "GP Qatar (qualifiche sprint) - Sport Sport 1 HD (ext chrome)",
-            "info": "18:30 Â· F1",
-            "online": "true",
-            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/skysport1hd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "GP Qatar (qualifiche sprint) - Sport 1 HD",
-            "info": "18:30 Â· F1",
-            "online": "true",
-            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/sportuno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "GP Qatar (qualifiche sprint) - Sport 1 (backup)",
-            "info": "18:30 Â· F1",
-            "online": "true",
-            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/uno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "GP Qatar (qualifiche sprint) - Live 8",
-            "info": "18:30 Â· F1",
-            "online": "true",
-            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live8.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Multicast - Live 117",
-            "info": "18:30 Â· Bundesliga 2",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/1200px-2._Bundesliga_logo.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live117.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Borussia Monchengladbach - Lipsia - Sport Mix HD",
             "info": "20:30 Â· Bundesliga",
             "online": "true",
@@ -906,12 +776,22 @@
             "isHost": ""
         },
         {
-            "name": "Cesena - Modena - Live 8",
-            "info": "20:30 Â· Serie B",
+            "name": "Napoli - Catania - Sport Max HD",
+            "info": "20:30 Â· Futsal",
             "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlCqdyx76Tp8314RzxDb0guAiGh1bCmxneA&s",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Divisione_C5.svg/1200px-Logo_Divisione_C5.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.ws/live8.htm",
+            "url": "https://www.hattrick.ws/sportmaxhd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Napoli - Catania - Sport Max",
+            "info": "20:30 Â· Futsal",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Divisione_C5.svg/1200px-Logo_Divisione_C5.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.ws/sportmax.htm",
             "embed": "true",
             "isHost": ""
         },
