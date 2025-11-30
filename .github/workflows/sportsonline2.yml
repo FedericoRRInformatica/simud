@@ -35,7 +35,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add W3U/EventiS.w3u
+          git add W3U/EventiS2.w3u
           git commit -m "Aggiornato High con nuovi flussi" || echo "Nessun cambiamento da committare"
           git push origin main --force
         continue-on-error: true
