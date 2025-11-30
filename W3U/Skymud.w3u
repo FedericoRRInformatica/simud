@@ -32,6 +32,13 @@
       "image": "https://i.postimg.cc/bYTLc6nY/Gemini-Generated-Image-mhb9vxmhb9vxmhb9.png",
       "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/W3U/Film.w3u",
       "import": true
+    },
+    {
+      "name": "Guida",
+      "author": "Simud",
+      "image": "https://cdn-icons-png.freepik.com/512/5070/5070061.png",
+      "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/W3U/Info.w3u",
+      "import": true
     }
   ]
 }
