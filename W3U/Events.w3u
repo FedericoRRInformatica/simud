@@ -11,6 +11,20 @@
       "image": "https://www.gedistatic.it/content/gnn/img/lastampa/2024/07/04/072925052-ad72025f-e3ee-4cf7-b97c-a4ee94a7af88.jpg",
       "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/W3U/EventiH.w3u",
       "import": true
+    },
+    {
+      "name": "Eventi SportsOnline ITA",
+      "author": "Simud",
+      "image": "https://images.seeklogo.com/logo-png/63/2/serie-a-logo-png_seeklogo-634355.png",
+      "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/W3U/EventiS2.w3u",
+      "import": true
+    },
+    {
+      "name": "Eventi SportsOnline Multi",
+      "author": "Simud",
+      "image": "https://images.seeklogo.com/logo-png/63/2/serie-a-logo-png_seeklogo-634355.png",
+      "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/W3U/EventiS2.w3u",
+      "import": true
     }
   ]
 }
