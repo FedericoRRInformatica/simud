@@ -35,7 +35,20 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+
+          # Elimina sempre il file
+          rm -f W3U/EventiS2.w3u
+
+          # Ricrea il file (modifica con il tuo contenuto reale)
+          echo "Nuovi flussi aggiornati automaticamente" > W3U/EventiS2.w3u
+
+          # Aggiunge il file
           git add W3U/EventiS2.w3u
-          git commit -m "Aggiornato High con nuovi flussi" || echo "Nessun cambiamento da committare"
+
+          # Effettua il commit
+          git commit -m "Aggiornato EventiS2 con nuovi flussi" || echo "Nessun cambiamento da committare"
+
+          # Push forzato
           git push origin main --force
+
         continue-on-error: true
