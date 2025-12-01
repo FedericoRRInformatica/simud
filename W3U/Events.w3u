@@ -13,17 +13,17 @@
       "import": true
     },
     {
-      "name": "Canali Sportivi",
+      "name": "Eventi SportsOnline ITA",
       "author": "Simud",
-      "image": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt3b8488da02f05f25/66b2010b0d26b22d93e45755/Sky_Sports_Logo.png?format=webp&imageManager=true&impolicy=resize&width=560",
-      "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/hattricklento.m3u8",
+      "image": "https://images.seeklogo.com/logo-png/63/2/serie-a-logo-png_seeklogo-634355.png",
+      "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/W3U/EventiS2.w3u",
       "import": true
     },
     {
-      "name": "Canali Sportivi 2",
+      "name": "Eventi SportsOnline Multi",
       "author": "Simud",
-      "image": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt3b8488da02f05f25/66b2010b0d26b22d93e45755/Sky_Sports_Logo.png?format=webp&imageManager=true&impolicy=resize&width=560",
-      "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/hattrickveloce.m3u8",
+      "image": "https://images.seeklogo.com/logo-png/63/2/serie-a-logo-png_seeklogo-634355.png",
+      "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/W3U/EventiS.w3u",
       "import": true
     }
   ]
