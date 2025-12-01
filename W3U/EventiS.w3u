@@ -6,846 +6,6 @@
     "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/W3U/EventiS.w3u",
     "stations": [
         {
-            "name": "Sail GP: Abu Dhabi - D2",
-            "info": "10:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/sporttv3.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Torreense x Chaves",
-            "info": "11:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/sporttv1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "PSV x Volendam",
-            "info": "11:15",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd10.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce x Torino",
-            "info": "11:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd7.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce x Torino",
-            "info": "11:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd3.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce x Torino",
-            "info": "11:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/sporttv2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Crystal Palace x Manchester United",
-            "info": "12:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Crystal Palace x Manchester United",
-            "info": "12:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/eleven1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Crystal Palace x Manchester United",
-            "info": "12:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/bra/br2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Hibernian x Celtic",
-            "info": "12:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd5.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Dynamo Dresden x Fortuna DÃ¼sseldorf",
-            "info": "12:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd9.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Elversberg x Darmstadt 98",
-            "info": "12:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/eleven3.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Real Sociedad x Villarreal",
-            "info": "13:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Real Sociedad x Villarreal",
-            "info": "13:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd6.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Real Sociedad x Villarreal",
-            "info": "13:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/eleven2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Real Sociedad x Villarreal",
-            "info": "13:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/bra/br6.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Pisa x Internazionale",
-            "info": "14:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd7.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Pisa x Internazionale",
-            "info": "14:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/sporttv2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Pisa x Internazionale",
-            "info": "14:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/bra/br1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Strasbourg x Brest",
-            "info": "14:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd4.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Strasbourg x Brest",
-            "info": "14:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/sporttv4.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Aston Villa x Wolverhampton Wanderers",
-            "info": "14:05",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Nottingham Forest x Brighton & Hove Albion",
-            "info": "14:05",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd11.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Nottingham Forest x Brighton & Hove Albion",
-            "info": "14:05",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/bra/br2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "West Ham United x Liverpool",
-            "info": "14:05",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd5.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "West Ham United x Liverpool",
-            "info": "14:05",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/eleven1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "West Ham United x Liverpool",
-            "info": "14:05",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/bra/br4.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Hamburger SV x Stuttgart",
-            "info": "14:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd3.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Hamburger SV x Stuttgart",
-            "info": "14:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/eleven3.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Panaitolikos x Olympiakos Piraeus",
-            "info": "15:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd9.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sevilla x Real Betis",
-            "info": "15:15",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sevilla x Real Betis",
-            "info": "15:15",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd6.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sevilla x Real Betis",
-            "info": "15:15",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/eleven2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Rio Ave x Santa Clara",
-            "info": "15:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/sporttv1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "UniÃ£o de Leiria x Benfica B",
-            "info": "15:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/sporttv3.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Twente x AZ",
-            "info": "15:45",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd10.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "F1: Qatar F1 Grand Prix",
-            "info": "16:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "F1: Qatar F1 Grand Prix",
-            "info": "16:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd8.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "F1: Qatar F1 Grand Prix",
-            "info": "16:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/bra/br5.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Le Havre x Lille",
-            "info": "16:15",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd4.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Chelsea x Arsenal",
-            "info": "16:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd5.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Chelsea x Arsenal",
-            "info": "16:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/eleven1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Chelsea x Arsenal",
-            "info": "16:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/bra/br2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Eintracht Frankfurt x Wolfsburg",
-            "info": "16:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd3.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Eintracht Frankfurt x Wolfsburg",
-            "info": "16:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/eleven3.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Atalanta x Fiorentina",
-            "info": "17:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd7.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Atalanta x Fiorentina",
-            "info": "17:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/sporttv4.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Levadiakos x PAOK",
-            "info": "17:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd9.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fatih KaragÃ¼mrÃ¼k x BeÅiktaÅ",
-            "info": "17:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd11.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fatih KaragÃ¼mrÃ¼k x BeÅiktaÅ",
-            "info": "17:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/sporttv5.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Celta de Vigo x Espanyol",
-            "info": "17:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Celta de Vigo x Espanyol",
-            "info": "17:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd6.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Celta de Vigo x Espanyol",
-            "info": "17:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/eleven2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sporting CP x Estrela",
-            "info": "18:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/sporttv2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Freiburg x Mainz 05",
-            "info": "18:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd3.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Freiburg x Mainz 05",
-            "info": "18:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/eleven3.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Ajax x Groningen",
-            "info": "19:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd10.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Ajax x Groningen",
-            "info": "19:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/eleven1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Panathinaikos x AEK Athens",
-            "info": "19:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd9.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Corinthians x Botafogo",
-            "info": "19:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/bra/br3.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "NFL: Houston Texans @ Indianapolis Colts",
-            "info": "19:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd5.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Roma x Napoli",
-            "info": "19:45",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Roma x Napoli",
-            "info": "19:45",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd7.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Roma x Napoli",
-            "info": "19:45",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/sporttv4.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Roma x Napoli",
-            "info": "19:45",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/bra/br6.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Olympique Lyonnais x Nantes",
-            "info": "19:45",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd4.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Olympique Lyonnais x Nantes",
-            "info": "19:45",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/sporttv3.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Girona x Real Madrid",
-            "info": "20:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Girona x Real Madrid",
-            "info": "20:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd6.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Girona x Real Madrid",
-            "info": "20:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/eleven2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Girona x Real Madrid",
-            "info": "20:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/bra/br2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Porto x Estoril",
-            "info": "20:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/sporttv1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Porto x Estoril",
-            "info": "20:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/bra/br5.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "MacarÃ¡ x El Nacional",
-            "info": "20:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd11.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "NFL: Buffalo Bills @ Pittsburgh Steelers",
-            "info": "21:15",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd5.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Boca Juniors x Argentinos Juniors",
-            "info": "21:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd9.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Boca Juniors x Argentinos Juniors",
-            "info": "21:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/bra/br6.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fortaleza x AtlÃ©tico Mineiro",
-            "info": "21:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/bra/br3.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Delfin x Emelec",
-            "info": "23:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd11.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "NBA: Boston Celtics @ Cleveland Cavaliers",
-            "info": "23:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/pt/sporttv2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Junior x AtlÃ©tico Nacional",
-            "info": "23:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd10.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Cruz Azul x Guadalajara",
-            "info": "01:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd6.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "NFL:  Washington Commanders @ Denver Broncos",
-            "info": "01:10",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd5.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "NBA: New Orleans Pelicans @ Los Angeles Lakers",
-            "info": "02:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://sportzonline.top/channels/hd/hd2.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Sepsi x CSMS IaÅi",
             "info": "11:30",
             "online": "true",
@@ -1162,6 +322,386 @@
             "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://sportzonline.top/channels/bra/br6.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "1984 MuÅspor x Konyaspor",
+            "info": "10:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd8.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "KeÃ§iÃ¶rengÃ¼cÃ¼ x Kayserispor",
+            "info": "12:30",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd8.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Cricket: Test Cricket: Dubai Capitals Vs Desert Vipers",
+            "info": "14:30",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd1.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Rizespor x Pendikspor",
+            "info": "15:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd8.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Sakaryaspor x GenÃ§lerbirliÄi",
+            "info": "17:30",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd8.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Spain W x Germany W",
+            "info": "17:30",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd10.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Spain W x Germany W",
+            "info": "17:30",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/pt/sporttv2.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Spain W x Germany W",
+            "info": "17:30",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/bra/br6.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Borussia M'gladbach x St. Pauli",
+            "info": "17:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd3.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Hertha BSC x Kaiserslautern",
+            "info": "17:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd4.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Hertha BSC x Kaiserslautern",
+            "info": "17:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/pt/eleven3.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Portugal W x  Brazil W",
+            "info": "19:15",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/bra/br1.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Fulham x Manchester City",
+            "info": "19:30",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd1.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Fulham x Manchester City",
+            "info": "19:30",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/pt/eleven2.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Fulham x Manchester City",
+            "info": "19:30",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/bra/br5.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "AFC Bournemouth x Everton",
+            "info": "19:30",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd5.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Wigan Athletic x Burton Albion",
+            "info": "19:45",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd8.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Barcelona x AtlÃ©tico Madrid",
+            "info": "20:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd2.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Barcelona x AtlÃ©tico Madrid",
+            "info": "20:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd6.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Barcelona x AtlÃ©tico Madrid",
+            "info": "20:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd9.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Barcelona x AtlÃ©tico Madrid",
+            "info": "20:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/pt/eleven1.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Barcelona x AtlÃ©tico Madrid",
+            "info": "20:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/bra/br2.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Borussia Dortmund x Bayer Leverkusen",
+            "info": "20:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd3.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Borussia Dortmund x Bayer Leverkusen",
+            "info": "20:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/pt/eleven3.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Borussia Dortmund x Bayer Leverkusen",
+            "info": "20:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/bra/br3.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "RB Leipzig x Magdeburg",
+            "info": "20:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd4.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Juventus x Udinese",
+            "info": "20:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd10.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Juventus x Udinese",
+            "info": "20:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd7.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Juventus x Udinese",
+            "info": "20:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/pt/sporttv1.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Juventus x Udinese",
+            "info": "20:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/bra/br4.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Newcastle United x Tottenham Hotspur",
+            "info": "20:15",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd11.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Newcastle United x Tottenham Hotspur",
+            "info": "20:15",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/bra/br6.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Vasco x Mirassol",
+            "info": "22:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/bra/br1.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "GrÃªmio x Fluminense",
+            "info": "00:30",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/bra/br1.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "NBA: New York Knicks @ Boston Celtics",
+            "info": "01:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd1.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "NBA: New York Knicks @ Boston Celtics",
+            "info": "01:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/pt/sporttv1.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "NBA: Oklahoma City Thunder @ Golden State Warriors",
+            "info": "04:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/hd/hd1.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "NBA: Oklahoma City Thunder @ Golden State Warriors",
+            "info": "04:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportzonline.top/channels/pt/sporttv1.php",
             "embed": "true",
             "isHost": ""
         }
